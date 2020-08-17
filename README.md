@@ -2,6 +2,7 @@
 This is an assignment made for Seneca College as part of an assignment.
 
 Powershell script features the following menu:
+
         1. Get Servers Informations
         2. Restart all the servers
         3. Sessions
